@@ -4,3 +4,5 @@ The project aims to decrease the damage to peanut fields from crows by automatic
 We use a The Microsoft Common Objects in Context (MS 
 COCO) dataset contains 91 common object categories, with 
 over 5,000 supervised classifications in 82 of them.
+
+https://doi.org/10.1109/ICACCS57279.2023.10112813
